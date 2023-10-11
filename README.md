@@ -1,3 +1,3 @@
 # demo
-this is for demo and practices.
-Learning github from apna collage
+this is for demo and practices. <br>
+Author - Nishant Sujeet
