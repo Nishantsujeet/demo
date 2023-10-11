@@ -1,2 +1,3 @@
 # demo
-this is for demo and practices
+this is for demo and practices.
+Learning github from apna collage
